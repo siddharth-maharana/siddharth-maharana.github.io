@@ -13,7 +13,7 @@ title                    : "Dr. Siddharth Maharana / Astronomer"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "My Researach webapge"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://siddharth-maharana.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://siddharth-maharana.github.io"
@@ -27,7 +27,7 @@ author:
   name             : "Siddharth Maharana"
   pronouns         : # example: "she/her"  
   bio              : "Professor of Astronomy at IUCAA"
-  location         : "Earth"
+  location         : "Pune, India"
   employer         : "IUCAA, Pune"
   uri              : # URL
   email            : "sidh345@gmail.com" 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=HpxRjegAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
