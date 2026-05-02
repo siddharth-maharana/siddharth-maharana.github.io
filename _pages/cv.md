@@ -25,9 +25,16 @@ Work experience
 * Postdoctoral Research Assistant; 2025-2026
   * University of Oxford, United Kingdom.  
   
-Skills
+Research Interests
 ======
-* Skill 1
+* Instrument Development.
+* Physics of interstellar medium.
+
+# Skills
+* Optical and Optomechnical Design
+* Software development for reducing instrument data.
+* Project management.
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
