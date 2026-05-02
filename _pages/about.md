@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "High Precision Astronomical Instrumentation Lab at IUCAA"
+title: "High Precision Instrumentation Lab at IUCAA"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am trying to make a research website for my work at IUCAA.
+Hi. I am Siddharth and you have landed on my research website. I am an astronomer by profession. 
+
+Currently, I am a Post-Doctoral Research Fellow at the University of Oxford, United Kingdom. Prior to this, I was at the South African Astronomical Observatory in the beautiful city of Cape Town in South Africa since May 2023. I work within the Instrumentation Lab of SAAO on various instrument and technology development projects for astronomy applications.
+
+Prior to coming to Cape Town, before a brief sojourn in the Greek island of Crete, I obtained my Ph.D. from Inter-University Center for Astronomy and Astrophysics (IUCAA) in Pune, India under the supervision of Prof. A N Ramaprakash.
+
+My broad research centers around development of new and innovative astronomical instrumentation in the optical wavelengths, with special emphasis on polarimetry and spectroscopy. I am currently leading the development of two unique polarimetric instruments called WALOP and FiberPol, among other research projects. WALOP will be the first wide-field survey instrument in optical polarimetry while FiberPol will combine two niche techniques in astronomy- polarimetry and fibers to enable 2D spectropolarimetry. Besides instrumentation, I also work on understanding the physics of dust in our interstellar medium, primarily through polarimetry.
+
+#Through this website, I shall be sharing my research activities, teaching resources, and occasionally glimpses of my non-academic activities which include traveling, and hiking. Hope you enjoy your time scrolling through these pages. Please reach out to me via email if you would like to get in touch.
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
