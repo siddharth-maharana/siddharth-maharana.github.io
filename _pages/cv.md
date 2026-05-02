@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy and Astrophysics, Inter-University Centre for Astronomy and Astrophysics, Pune, India, 2022. 
+* Bachelors in Mechanical Engineering, Guru Ghasidas Vishwavidyalaya, Bilaspur, India. 2015.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Research Assistant; 2022-2023
+  * Institute of Astrophysics- FORTH, Heraklion, Greece.
+    
+* Postdoctoral Research Assistant; 2023-2025
+  * South African Astronomical Obseravtory, Cape Town South Africa.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Research Assistant; 2025-2026
+  * University of Oxford, United Kingdom.  
   
 Skills
 ======
