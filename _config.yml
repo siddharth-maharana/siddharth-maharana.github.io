@@ -27,9 +27,9 @@ author: Dr. Siddharth Maharana
   name             : "Siddharth Maharana"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Astrophysics"
-  location         : "Pune, India"
-  employer         : "IUCAA, Pune"
-  uri              : # URL
+  location         : "IUCAA, Pune, India"
+  #employer         : "IUCAA, Pune"
+  #uri              : # URL
   #email            : "sidh345@gmail.com" 
 
   # Academic websites
