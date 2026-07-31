@@ -19,7 +19,8 @@ My broad research centers around development of new and innovative astronomical 
 
 Through this website, I shall be sharing my research activities, teaching resources, and occasionally glimpses of my non-academic activities which include traveling, and hiking. Hope you enjoy your time scrolling through these pages. Please reach out to me via email if you would like to get in touch.
 
+I am currently building this website for my group. 
+=
 
-**I am currently building this website for my group. **
 If you are a student or researcher intersted in collaborationg with me, please reach out to me directly via email: sidh345@gmail.com
 
