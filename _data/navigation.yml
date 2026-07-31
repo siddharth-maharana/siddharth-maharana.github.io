@@ -10,28 +10,19 @@
 main:
 
   - title: "Science Projects"
-    url: /talks/    
+    url: /science/    
     
   - title: "Instrumentation Projects"
-    url: /publications/
-
+    url: /instruments/
+    
+  - title: "Group Members and Collaborators"
+    url: /group/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
         
-  - title: "Group Members and Collaborators"
-    url: /year-archive/
-  
-  - title: "Outreach"
-    url: /markdown/
-    
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-
+  - title: "Outreach"
+    url: /markdown/
