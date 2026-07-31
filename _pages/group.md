@@ -5,13 +5,13 @@ layout: archive
 author_profile: true
 ---
 
-> **📢 We are recruiting!**
+
+> We are looking for motivated **PhD students, Master's students, undergraduate interns, and project students** interested in observational astrophysics or astronomical instrumentation development, including software development.
 >
-> We are looking for motivated **PhD students, Master's students, undergraduate interns, and project students** interested in observational astrophyscis or astronomical instrumentation development, including sofware development.
->
-> If you enjoy building instruments that enable new discoveries, please get in touch. Students from **Physics, Astronomy, Optical Engineering, Mechanical Engineering, Electronics, and related disciplines** are encouraged to contact me.
+> If you enjoy building instruments that enable new discoveries, please get in touch. Students from **Physics, Astronomy, Engineering, and related disciplines** are encouraged to contact me.
 
 ## Opportunities
+> Please look out this space for future annoucements.
 
 ### PhD Students
 
@@ -26,8 +26,6 @@ Prospective PhD students are welcome to discuss research projects in areas inclu
 - Interstellar dust and magnetic fields
 - Instrumentation for future Extremely Large Telescopes
 
-Students with strong interests in instrumentation, observations, and hands-on experimental work are particularly encouraged to apply.
-
 ### Master's and Undergraduate Students
 
 Research projects are available for Master's dissertations, undergraduate research projects, internships, and summer students.
@@ -36,9 +34,9 @@ Possible projects include:
 
 - Instrument development
 - Optical design
-- Laboratory characterization of optical systems
+- Laboratory characterisation of optical systems
 - Scientific programming in Python
-- Data reduction and visualization
+- Data reduction and visualisation
 - Polarimetric observations
 
 If you are interested in joining the group, please send me an email with a brief description of your interests and a copy of your CV.
@@ -79,4 +77,3 @@ I work closely with researchers at:
 - South African Astronomical Observatory (SAAO)
 - Foundation for Research and Technology – Hellas (FORTH)
 - European Extremely Large Telescope (ELT) Planetary Camera and Spectrograph Consortium
-```
