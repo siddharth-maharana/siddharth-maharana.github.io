@@ -43,6 +43,12 @@
 ;
 /* ---------- Your custom CSS goes below ---------- */
 
-.page__content p {
+.page__content {
     text-align: justify;
+}
+
+.page__content p {
+    text-indent: 2em;
+    line-height: 1.7;
+    hyphens: auto;
 }
