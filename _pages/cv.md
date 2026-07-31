@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<p>
+<a href="{{ base_path }}/files/CV_MSF (6).pdf"
+   class="btn btn--primary">
+   <i class="fas fa-file-pdf"></i> Download CV (PDF)
+</a>
+</p>
+
 Education
 ======
 * Ph.D in Astronomy and Astrophysics, Inter-University Centre for Astronomy and Astrophysics, Pune, India, 2022. 
