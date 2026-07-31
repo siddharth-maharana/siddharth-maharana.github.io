@@ -84,8 +84,8 @@ Members will be listed here as they join.
 - Poorva Bhalerao — Cummins College, Pune (2018–2019)
 - Rahul Sanghvi — Fergusson College, Pune (2018)
 
----
----
+------
+
 
 ## Collaborating Institutions
 
