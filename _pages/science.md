@@ -29,7 +29,7 @@ Current projects include:
 
 ### Precision Polarimetry
 
-[Polarimetry](polarisation) is one of the most powerful yet technically demanding techniques in observational astronomy. My research focuses on developing calibration methods that improve both the precision and accuracy of polarimetric observations.
+[Polarimetry](/science/polarisation) is one of the most powerful yet technically demanding techniques in observational astronomy. My research focuses on developing calibration methods that improve both the precision and accuracy of polarimetric observations.
 
 Research areas include
 
