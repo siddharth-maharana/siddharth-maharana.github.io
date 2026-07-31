@@ -5,13 +5,31 @@ layout: archive
 author_profile: true
 ---
 
-
-> We are looking for motivated **PhD students, Master's students, undergraduate interns, and project students** interested in observational astrophysics or astronomical instrumentation development, including software development.
+> *"The road to wisdom?*
 >
-> If you enjoy building instruments that enable new discoveries, please get in touch. Students from **Physics, Astronomy, Engineering, and related disciplines** are encouraged to contact me.
+> *Well, it's plain*
+>
+> *and simple to express:*
+>
+> *Err and err and err again,*
+>
+> *but less and less and less."*
+>
+> — **Piet Hein**
+
+---
+
+Students in the group have the opportunity to participate in every stage of an instrumentation project—from scientific motivation and concept development to optical and optomechanical design, laboratory characterisation, commissioning, observations, data analysis, and publication. Depending on the project, there are also opportunities to collaborate internationally and observe at leading astronomical facilities. I strongly believe that the best way to learn is by doing, making mistakes, and continually improving.
+
+> **📢 We are recruiting!**
+>
+> We are looking for motivated **PhD students, Master's students, undergraduate interns, and project students** interested in **observational astrophysics**, **astronomical instrumentation**, and **scientific software development**.
+>
+> Students from **Physics, Astronomy, Engineering, and related disciplines** are encouraged to get in touch.
+>
+> **Open positions:** Recruitment announcements will be posted here as positions become available. Prospective students are nevertheless welcome to contact me to discuss potential opportunities.
 
 ## Opportunities
-> Please look out this space for future annoucements.
 
 ### PhD Students
 
@@ -22,6 +40,7 @@ Prospective PhD students are welcome to discuss research projects in areas inclu
 - Optical and optomechanical design
 - Fiber-fed spectroscopy
 - Scientific software development
+- Instrument control and automation
 - Instrument calibration
 - Interstellar dust and magnetic fields
 - Instrumentation for future Extremely Large Telescopes
@@ -45,9 +64,9 @@ If you are interested in joining the group, please send me an email with a brief
 
 ## Current Members
 
-The research group is currently being established at IUCAA.
+The group is currently being established at IUCAA.
 
-Group members will be added here as they join.
+Members will be listed here as they join.
 
 ---
 
@@ -55,8 +74,7 @@ Group members will be added here as they join.
 
 ### Master's Students
 
-- **Chris Dennison-Farrar**
-  - University of Cape Town (2024–2026)
+- **Chris Dennison-Farrar** — University of Cape Town (2024–2026)
 
 ### Undergraduate Research Students
 
@@ -68,9 +86,7 @@ Group members will be added here as they join.
 
 ---
 
-## Collaborators
-
-I work closely with researchers at:
+## Collaborating Institutions
 
 - Inter-University Centre for Astronomy and Astrophysics (IUCAA)
 - University of Oxford
