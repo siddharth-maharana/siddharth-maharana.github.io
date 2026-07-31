@@ -5,7 +5,6 @@ layout: archive
 author_profile: true
 ---
 
-# FiberPol
 ### Measuring More Than Light
 
 > *Astronomy has traditionally advanced by building bigger telescopes. The next wave of discoveries will also come from extracting more information from every photon that reaches our telescopes.*
