@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <p>
-<a href="{{ base_path }}/files/CV_MSF (6).pdf"
+<a href="{{ base_path }}/files/CV_SM.pdf"
    class="btn btn--primary">
    <i class="fas fa-file-pdf"></i> Download CV (PDF)
 </a>
