@@ -19,11 +19,11 @@ author_profile: true
 
 ---
 
-Students in the group have the opportunity to participate in every stage of an instrumentation project—from scientific motivation and concept development to optical and optomechanical design, laboratory characterisation, commissioning, observations, data reduction methods, and scientific analysis. My research philosophy is simple: **develop new techniques and instruments, test them on the sky, and use them to answer exciting scientific questions.** Depending on the project, there are also opportunities to collaborate internationally and observe at leading astronomical facilities.
+Students in the group have the opportunity to participate in every stage of an instrumentation project—from scientific motivation and concept development to optical and optomechanical design, laboratory characterisation, commissioning, observations, data reduction methods, and scientific analysis. My research philosophy is simple: develop new techniques and instruments, test them on the sky, and use them to answer exciting scientific questions. Depending on the project, there are also opportunities to collaborate internationally and observe at leading astronomical facilities.
 
-> We welcome motivated **PhD, Master's, undergraduate, and project students** interested in **observational astrophysics**, **astronomical instrumentation**, and **scientific software development**.
+> We welcome motivated PhD, Master's, undergraduate, and project students interested in observational astrophysics, astronomical instrumentation, and scientific software development.
 >
-> In keeping with **IUCAA's mandate of fostering astronomy and astrophysics research across Indian universities**, students from universities across India are especially encouraged to get in touch regarding research projects, internships, and potential PhD opportunities. Students from **Physics, Astronomy, Engineering, and related disciplines** are all welcome.
+> In keeping with IUCAA's mandate of fostering astronomy and astrophysics research across Indian universities, students from universities across India are especially encouraged to get in touch regarding research projects, internships, and potential PhD opportunities. Students from Physics, Astronomy, Engineering, and related disciplines are all welcome.
 >
 > **Open positions:** Recruitment announcements will be posted here as positions become available. Prospective students are nevertheless encouraged to contact me to discuss potential opportunities.
 
@@ -34,9 +34,9 @@ Students in the group have the opportunity to participate in every stage of an i
 Prospective PhD students are welcome to discuss research projects in areas including:
 
 - Astronomical instrumentation
-- Optical and spectropolarimetry
-- Optical and optomechanical design
-- Fiber-fed spectroscopy
+  - Optical and spectropolarimetry
+  - Optical and optomechanical design
+  - Fiber-fed spectroscopy
 - Scientific software development
 - Instrument control and automation
 - Instrument calibration
