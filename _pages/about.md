@@ -1,20 +1,19 @@
 ---
 permalink: /
-title: "High Precision Instrumentation Lab at IUCAA"
+title: "High Precision Optical-UV-NIR Instrumentation Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my research website. I am an astronomer working in optical astronomical instrumentation, with a focus on polarimetry and spectroscopy.
+Welcome to my research website. I am an astronomer at the inter university centre for astronomy and astrophysics (IUCAA), Pune, India. I work in observational astrophysics, primarily in building optical astronomical instrumentation, with a focus on polarimetry and spectroscopy.
 
 My research interests include the development of new instruments for precision astronomy. I also study the physics of interstellar dust through polarimetric observations.
 
 This site shares my research, teaching material, group activities, and occasional updates from life outside academia. If you would like to discuss possible collaborations, feel free to get in touch by email.
 
-I am currently in the process of building this research website. 
-===
+$ I am currently in the process of building this research website. 
 
-If you are a student or researcher intersted in collaborationg with me, please reach out to me directly via email: sidh345@gmail.com
+If you are a student or researcher interested in collaborating with me, please reach out to me directly via email: sidh345@gmail.com
 
