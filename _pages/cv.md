@@ -17,7 +17,7 @@ redirect_from:
 </p>
 
 <iframe
-    src="{{ base_path }}/files/Siddharth_Maharana_CV.pdf"
+    src="{{ base_path }}/files/CV_SM.pdf"
     width="100%"
     height="900px">
 </iframe>
