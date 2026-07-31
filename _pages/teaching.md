@@ -5,8 +5,6 @@ layout: archive
 author_profile: true
 ---
 
-# Teaching
-
 I enjoy teaching because it provides an opportunity to connect fundamental concepts with modern astronomical research. My goal is to help students develop physical intuition alongside the practical skills needed to tackle real scientific problems.
 
 Teaching material, lecture notes, and project descriptions will be added here as they become available.
@@ -20,23 +18,5 @@ I co-developed and taught the inaugural Master's-level course in **Astronomical 
 
 ### Lecture Notes
 
-- Lecture 1: Introduction to Astronomical Instrumentation *(PDF)*
-- Lecture 2: Telescope Optics *(PDF)*
-- Lecture 3: Spectroscopy *(PDF)*
-- Lecture 4: Polarimetry *(PDF)*
-- Lecture 5: Detectors *(PDF)*
-- Lecture 6: Instrument Design *(PDF)*
-
----
-
-## Student Projects
-
-I welcome enquiries from undergraduate, Master's, and PhD students interested in projects related to
-
-- Astronomical instrumentation
-- Optical design
-- Polarimetry
-- Scientific software development
-- Observational astrophysics
-
-Please feel free to get in touch if you are interested in discussing a project.
+- Lecture 1: Introduction to Astronomical Polarimetry *(PDF)*
+- Lecture 2: Errors and Statistics *(PDF)*
