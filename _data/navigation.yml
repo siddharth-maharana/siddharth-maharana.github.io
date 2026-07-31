@@ -9,13 +9,13 @@
 
 main:
 
-  - title: "Science Projects"
+  - title: "Science"
     url: /science/    
     
-  - title: "Instrumentation Projects"
+  - title: "Instrumentats"
     url: /instruments/
     
-  - title: " Research Group"
+  - title: "Research Group"
     url: /group/
 
   - title: "Teaching"
