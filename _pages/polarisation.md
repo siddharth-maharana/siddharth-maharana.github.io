@@ -1,4 +1,9 @@
-
+---
+title: "Polarisation"
+permalink: /science/polarisation/
+layout: archive
+author_profile: true
+---
 ## What is Polarisation?
 
 When astronomers observe the Universe, we usually measure **how much light** an object emits (photometry) or **how that light is distributed with wavelength** (spectroscopy). These techniques have transformed our understanding of stars, galaxies, planets, and the cosmos.
