@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my research website. I am an astronomer working in optical astronomical instrumentation, with a focus on polarimetry and spectroscopy.
 
-My research interests include the development of new instruments for precision astronomy, with current work on WALOP and FiberPol. I also study the physics of interstellar dust through polarimetric observations.
+My research interests include the development of new instruments for precision astronomy. I also study the physics of interstellar dust through polarimetric observations.
 
 This site shares my research, teaching material, group activities, and occasional updates from life outside academia. If you would like to discuss possible collaborations, feel free to get in touch by email.
 
