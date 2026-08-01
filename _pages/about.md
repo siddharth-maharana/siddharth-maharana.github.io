@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my research website. I am an astronomer at the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune, India. I work in observational astrophysics, primarily in building optical astronomical instrumentation, with a focus on polarimetry and spectroscopy. I co-lead the **Optical-UV-NIR Instrumentation Lab** at IUCAA along with my former PhD supervisor [Prof. A. N. Ramaprakash](https://www.iucaa.in/en/faculty-research/anr). 
+Welcome to my research website. I am an astronomer at the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune, India. I work in observational astrophysics, primarily in building optical astronomical instrumentation, with a focus on polarimetry and spectroscopy. I co-lead the activities at the **Optical-UV-NIR Instrumentation Lab** in IUCAA, along with my former PhD supervisor [Prof. A. N. Ramaprakash](https://www.iucaa.in/en/faculty-research/anr). 
 
 If you are a student or researcher interested in collaborating with me, please reach out to me directly via email: sidh345@gmail.com
 
