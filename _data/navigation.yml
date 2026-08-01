@@ -9,11 +9,11 @@
 
 main:
 
-  - title: "Science"
-    url: /science/    
+  - title: "Research"
+    url: /research/    
     
-  - title: "Instruments"
-    url: /instruments/
+  #- title: "Instruments"
+  #  url: /instruments/
     
   - title: "Research Group"
     url: /group/
