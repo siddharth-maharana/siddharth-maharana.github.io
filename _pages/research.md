@@ -1,15 +1,14 @@
 ---
-title: "Research"
 permalink: /science/
 layout: archive
 author_profile: true
 ---
 
-My research lies at the intersection of **astronomical instrumentation** and **observational astrophysics**. I develop new instruments and observational techniques that enable measurements which were previously impossible or impractical. These instruments are then applied to address fundamental questions in astrophysics, particularly the physics of the interstellar medium, magnetic fields, and, more recently, the direct detection and characterisation of exoplanets.
+My research lies at the intersection of **astronomical instrumentation** and **observational astrophysics**. I develop new instruments and observational techniques that enable new and/or improved measurements of astrophysical systems. These instruments are then applied to address fundamental questions in astrophysics, particularly the physics of the interstellar medium, magnetic fields, and, more recently, the direct detection and characterisation of exoplanets.
 
-My research philosophy is straightforward:
+My research philosophy is broadly captured below:
 
-> **Develop new techniques and instruments → validate them on the sky → use them to answer exciting scientific questions.**
+> **Develop new techniques and instruments &harr; validate them on the sky → use them to answer exciting scientific questions.**
 
 ---
 
