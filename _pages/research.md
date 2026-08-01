@@ -1,5 +1,5 @@
 ---
-permalink: /science/
+permalink: /research/
 layout: archive
 author_profile: true
 ---
