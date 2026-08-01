@@ -10,7 +10,7 @@ My research philosophy is broadly captured below:
 
 > **Develop new techniques and instruments &harr; validate them on the sky &harr; use them to answer exciting scientific questions.**
 
----
+
 
 ## Research Themes
 
