@@ -8,7 +8,7 @@ My research lies at the intersection of **astronomical instrumentation** and **o
 
 My research philosophy is broadly captured below:
 
-> **Develop new techniques and instruments &harr; validate them on the sky → use them to answer exciting scientific questions.**
+> **Develop new techniques and instruments &harr; validate them on the sky &harr; use them to answer exciting scientific questions.**
 
 ---
 
@@ -16,7 +16,7 @@ My research philosophy is broadly captured below:
 
 ### Astronomical Instrumentation
 
-Modern astronomy advances because of advances in instrumentation. My work spans the complete life cycle of astronomical instruments—from scientific motivation and optical design to commissioning and scientific exploitation.
+Modern astronomy advances because of advances in instrumentation and observational techniques. My work spans the complete life cycle of astronomical instruments—from scientific motivation and instrument design and building to commissioning and scientific exploitation.
 
 Current projects include:
 
