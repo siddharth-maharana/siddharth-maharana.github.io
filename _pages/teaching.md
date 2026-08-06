@@ -17,5 +17,5 @@ I co-developed and taught the inaugural Master's-level course in Astronomical In
 
 ### Lecture Notes
 
-- [📄 Lecture 1: Introduction to Astronomical Polarimetry]({{ 'files/Introduction_to_Polarimetry_Lecture.pdf' | relative_url }})
-- [📄 Lecture 2: Errors and Statistics]({{ 'files/Introduction_to_Errors' | relative_url }})
+- [Lecture 1: Introduction to Astronomical Polarimetry]({{ 'files/Introduction_to_Polarimetry_Lecture.pdf' | relative_url }})
+- [Lecture 2: Errors and Statistics]({{ 'files/Introduction_to_Errors' | relative_url }})
