@@ -52,3 +52,12 @@
     line-height: 1.7;
     hyphens: auto;
 }
+.notice--info {
+    background-color: #e8f4fb;   /* light blue */
+    border-left: 5px solid #2f7f93;
+    color: #1d4f5f;
+}
+
+.notice--info strong {
+    color: #0b5c75;
+}
