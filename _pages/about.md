@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 #title: "High Precision Optical-UV-NIR Instrumentation Lab"
 author_profile: true
 redirect_from: 
