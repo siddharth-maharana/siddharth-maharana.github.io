@@ -14,7 +14,9 @@ If you are a student or researcher interested in collaborating with me, please r
 <!-- This site shares my research, teaching material, group activities, and occasional updates from life outside academia. If you would like to discuss possible collaborations, feel free to get in touch by email.-->
 
 **I am currently in the process of building this research website.**
-
+<div class="notice--info">
+<strong>Website update:</strong> I am currently in the process of building this research website. Additional content will be added over the coming weeks.
+</div>
 
 
 
