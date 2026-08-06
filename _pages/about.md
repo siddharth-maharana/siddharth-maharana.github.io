@@ -15,5 +15,8 @@ If you are a student or researcher interested in collaborating with me, please r
 
 **I am currently in the process of building this research website.**
 
+<div class="notice--info">
+<strong>Website update:</strong> I am currently in the process of building this research website. Additional content will be added over the coming weeks.
+</div>
 
 
