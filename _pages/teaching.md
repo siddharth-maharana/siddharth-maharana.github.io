@@ -17,5 +17,5 @@ I co-developed and taught the inaugural Master's-level course in Astronomical In
 
 ### Lecture Notes
 
-- Lecture 1: Errors, Uncertainty & Statistics in Astronomy
-- Lecture 2: Introduction to Optical Polarimetry
+- [📄 Lecture 1: Introduction to Astronomical Polarimetry]({{ '/files/' | relative_url }})
+- [📄 Lecture 2: Errors and Statistics]({{ '/files/teaching/astronomical_instrumentation/Lecture02_Errors_and_Statistics.pdf' | relative_url }})
