@@ -16,8 +16,3 @@ redirect_from:
 </a>
 </p>
 
-<iframe
-    src="{{ base_path }}/files/CV_SM.pdf"
-    width="100%"
-    height="900px">
-</iframe>
