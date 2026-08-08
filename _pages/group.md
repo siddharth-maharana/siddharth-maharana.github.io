@@ -34,14 +34,14 @@ Students in the group have the opportunity to participate in every stage of an i
 Prospective PhD students are welcome to discuss research projects in areas including:
 
 - Astronomical instrumentation
-  - Optical and spectropolarimetry
-  - Optical and optomechanical design
+  - Polarimetric methods
+  - Instrument design, including optical and optomechanical design
   - Fiber-fed spectroscopy
-- Scientific software development
+- Scientific software development, such as developing pipelines for converting raw instrument data to science ready results
 - Instrument control and automation
 - Instrument calibration
 - Interstellar dust and magnetic fields
-- Instrumentation for future Extremely Large Telescopes
+- Instrumentation and technology development for future Extremely Large Telescopes
 
 ### Master's and Undergraduate Students
 
