@@ -28,14 +28,13 @@ Current projects include:
 
 ### Precision Polarimetry
 
-[Polarimetry](/science/polarisation) is one of the most powerful yet technically demanding techniques in observational astronomy. My research focuses on developing calibration methods that improve both the precision and accuracy of polarimetric observations.
+[Polarimetry](/science/polarisation) is one of the most powerful yet technically demanding techniques in observational astronomy. My research focuses on developing instruments and calibration methods that improve both the precision and accuracy of polarimetric observations.
 
 Research areas include
 
-- Polarimetric calibration techniques
-- Polarimetric standard stars
-- Wide-field calibration methods
+- End to end instrument development
 - Instrument characterisation
+- Polarimetric calibration techniques
 
 ---
 
@@ -49,7 +48,7 @@ New instruments are ultimately valuable because of the science they enable. I us
 - Circumstellar environments
 - Active galactic nuclei
 
-These studies combine observations from facilities including SALT, IRSF, the SAAO 1.9 m Telescope, and future Extremely Large Telescope instrumentation.
+These studies combine observations from facilities including SALT, IRSF, the SAAO 1.9 m Telescope, and future Extremely Large Telescope instrumentation. Recently, I have also become heavily involved with the upcoming NASA Mission to measure the polarisation of stellar sightlines in the UV.
 
 ---
 
@@ -60,3 +59,4 @@ These studies combine observations from facilities including SALT, IRSF, the SAA
 | [WALOP](walop/) | Four-camera wide-field imaging polarimeter for the PASIPHAE survey |
 | [FiberPol](fiberpol/) | High-precision fiber-fed spectropolarimeter developed at SAAO |
 | [ELT PCS](pcs/) | Instrument concept development for the 39-m Extremely Large Telescope |
+| PUFFINS | NASA Mission for UV Spectropolarimetry of dust |
