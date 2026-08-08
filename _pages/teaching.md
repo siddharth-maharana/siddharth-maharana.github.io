@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 ---
 
-I fairly enjoy teaching as it often provides a much needed opportunity to connect fundamental concepts with modern astronomical research. My usual goal through the courses is to help students develop an interest in the subject matter, and alongside the intuition and skillsets needed to tackle real scientific problems-- which unlike classroom problems do not have a solution.
+I fairly enjoy teaching as it often provides a much needed opportunity to connect fundamental concepts with modern astronomical research. My usual goal through the courses is to help students develop an interest in the subject matter, and alongside the intuition and skillsets needed to tackle real scientific problems-- which unlike classroom problems do not have a priori known solution.
 
 I will add Teaching material, lecture notes, and additional resources here as they become available.
 
