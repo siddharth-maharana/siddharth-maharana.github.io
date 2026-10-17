@@ -18,11 +18,7 @@ redirect_from:
   </figcaption>
 </figure>
 
-<!-- 
-<div class="notice--info">
-  <p><strong>Website update:</strong> I am currently in the process of building this research website. Additional content will be added over the coming weeks.</p>
-</div>
---> 
+
 <blockquote class="homepage-quote">
   <p>
     Welcome. And congratulations. I am delighted that you could make it.
