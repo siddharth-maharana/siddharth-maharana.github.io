@@ -28,23 +28,21 @@ redirect_from:
 
 I am an Assistant Professor at the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune, India, where I co-lead activities at the Optical-UV-NIR Instrumentation Lab with [Prof. A. N. Ramaprakash](https://www.iucaa.in/en/faculty-research/anr).
 
-I am an observational astronomer and an instrument builder. My research lies at the intersection of astronomical instrumentation and observational astrophysics, with a particular interest in polarimetry and spectroscopy.
+I am an observational astronomer and an instrument builder, working at the intersection of astronomical instrumentation and observational astrophysics, with a particular focus on polarimetry and spectroscopy.
 
-Before joining IUCAA, I worked as a postdoctoral researcher at the University of Oxford (UK), the South African Astronomical Observatory (South Africa), and FORTH (Greece). I completed my PhD at IUCAA in 2022, working on the development of wide-field optical polarimeters for the PASIPHAE survey.
+Before joining IUCAA, I held postdoctoral positions at the University of Oxford (UK), the South African Astronomical Observatory (South Africa), and the Foundation for Research and Technology – Hellas (FORTH, Greece). I completed my PhD at IUCAA in 2022, where I worked on the design and development of wide-field optical polarimeters for the PASIPHAE survey.
 
 ## My Research
 
-I am interested in developing new astronomical instruments and observational techniques that allow us to make measurements which were previously difficult or impossible.
+My research is driven by the idea that advances in astronomical instrumentation open new windows onto the Universe. I develop new instruments and observational techniques that enable measurements previously difficult or impossible to achieve.
 
-My research approach aims to develop new techniques and instruments, test them on the sky, and use them to answer exciting scientific questions.
+My approach is to develop new techniques and instruments, test them on the sky, and use them to address exciting scientific questions. This involves working across the full instrument development cycle, from scientific motivation and optical design to laboratory characterisation, commissioning, calibration, observations, and scientific analysis.
 
-Much of my work focuses on precision polarimetry and spectroscopy, particularly their applications to understanding interstellar dust, magnetic fields, and the physical processes shaping our Galaxy. More recently, I have also been involved in developing advanced instrumentation for the direct imaging and characterisation of Earth-like exoplanets for the upcoming Planetary Camera and Spectrograph (PCS) on the 39m Extremely Large Telescope.
-
-My research spans the complete instrument development cycle, from scientific motivation and optical design to laboratory characterisation, commissioning, calibration, observations, and scientific analysis.
+A major focus of my research is precision polarimetry and spectroscopy, particularly their applications to understanding interstellar dust, magnetic fields, and the physical processes shaping our Galaxy. More recently, my work has expanded to developing advanced instrumentation for the direct imaging and characterisation of Earth-like exoplanets, as part of the Planetary Camera and Spectrograph (PCS) programme for the 39-m Extremely Large Telescope (ELT).
 
 You can read more about my work on the [Research]({{ '/research/' | relative_url }}) page.
 
-If you are a student or researcher interested in collaborating with me, please reach out to me directly via email: sidh345@gmail.com
+If you are a student or researcher interested in collaborating with me, please reach out to me directly via email: siddharth.maharana@iucaa.in
 
 <!-- This site shares my research, teaching material, group activities, and occasional updates from life inside and outside academia. If you would like to discuss possible collaborations, feel free to get in touch by email. -->
 
