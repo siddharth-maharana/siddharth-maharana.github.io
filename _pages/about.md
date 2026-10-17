@@ -23,6 +23,16 @@ redirect_from:
   <p><strong>Website update:</strong> I am currently in the process of building this research website. Additional content will be added over the coming weeks.</p>
 </div>
 --> 
+<blockquote class="homepage-quote">
+  <p>
+    Welcome. And congratulations. I am delighted that you could make it.
+    Getting here wasn’t easy, I know. In fact, I suspect it was a little
+    tougher than you realize.
+  </p>
+  <footer>
+    — Bill Bryson, <em>A Short History of Nearly Everything</em>
+  </footer>
+</blockquote>
 
 ## About Me
 
