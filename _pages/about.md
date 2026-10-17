@@ -8,7 +8,7 @@ redirect_from:
 ---
 <figure style="max-width:750px; margin:25px auto; text-align:center;">
   <img
-    src="{{ '/images/Sutherland_2021,jpg' | relative_url }}"
+    src="{{ '/images/Sutherland_2021.JPG' | relative_url }}"
     alt="Siddharth Maharana at the observatory"
     style="width:100%; height:auto; border-radius:8px;"
     loading="lazy">
