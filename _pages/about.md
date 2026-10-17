@@ -13,11 +13,11 @@ redirect_from:
 
 ## About Me
 
-I am an Assistant Professor at the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune, India, where I co-lead activities at the **Optical-UV-NIR Instrumentation Lab** with [Prof. A. N. Ramaprakash](https://www.iucaa.in/en/faculty-research/anr).
+I am an Assistant Professor at the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune, India, where I co-lead activities at the Optical-UV-NIR Instrumentation Lab with [Prof. A. N. Ramaprakash](https://www.iucaa.in/en/faculty-research/anr).
 
 I am an observational astronomer and an instrument builder. My research lies at the intersection of astronomical instrumentation and observational astrophysics, with a particular interest in polarimetry and spectroscopy.
 
-Before joining IUCAA, I worked as a postdoctoral researcher at the **University of Oxford (UK)**, the **South African Astronomical Observatory (South Africa)**, and **FORTH (Greece)**. I completed my PhD at IUCAA in 2022, working on the development of wide-field optical polarimeters for the PASIPHAE survey.
+Before joining IUCAA, I worked as a postdoctoral researcher at the University of Oxford (UK), the South African Astronomical Observatory (South Africa), and FORTH (Greece). I completed my PhD at IUCAA in 2022, working on the development of wide-field optical polarimeters for the PASIPHAE survey.
 
 ## My Research
 
