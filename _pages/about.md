@@ -17,9 +17,12 @@ redirect_from:
   View of Milky Way centre from the Sutherland Observatory, South Africa during an observing campaign in September, 2021. Venus and Jupiter are setting in the horizon.
   </figcaption>
 </figure>
+
+<!-- 
 <div class="notice--info">
   <p><strong>Website update:</strong> I am currently in the process of building this research website. Additional content will be added over the coming weeks.</p>
 </div>
+--> 
 
 ## About Me
 
