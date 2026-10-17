@@ -6,7 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<figure style="max-width:750px; margin:25px auto; text-align:center;">
+  <img
+    src="{{ '/images/homepage/siddharth_observatory.jpg' | relative_url }}"
+    alt="Siddharth Maharana at the observatory"
+    style="width:100%; height:auto; border-radius:8px;"
+    loading="lazy">
 
+  <figcaption style="font-size:0.85em; margin-top:8px;">
+    At the observatory during an instrumentation and observing campaign.
+  </figcaption>
+</figure>
 <div class="notice--info">
   <p><strong>Website update:</strong> I am currently in the process of building this research website. Additional content will be added over the coming weeks.</p>
 </div>
