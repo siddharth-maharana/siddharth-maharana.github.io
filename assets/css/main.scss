@@ -74,8 +74,9 @@ blockquote.homepage-quote {
 
 /* Quotation text */
 .archive blockquote.homepage-quote p,
-.page__content blockquote.homepage-quote p {
-    font-size: 0.95rem;
+.page__content blockquote.homepage-quote p,
+blockquote.homepage-quote p {
+    font-size: 1.05rem !important;
     font-style: italic;
     line-height: 1.65;
     text-align: left;
@@ -86,10 +87,15 @@ blockquote.homepage-quote {
 /* Attribution */
 blockquote.homepage-quote footer {
     display: block;
-    font-size: 0.85rem;
+    font-size: 0.8rem !important;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
     text-align: right;
     color: #5a6b73;
+}
+
+/* Prevent theme styling from enlarging attribution */
+blockquote.homepage-quote footer em {
+    font-size: inherit;
 }
