@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<figure style="max-width:750px; margin:25px auto; text-align:center;">
+<figure style="max-width:850px; margin:25px auto; text-align:center;">
   <img
     src="{{ '/images/Sutherland_2021.JPG' | relative_url }}"
     alt="Siddharth Maharana at the observatory"
