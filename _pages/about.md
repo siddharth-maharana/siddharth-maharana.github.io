@@ -14,7 +14,7 @@ redirect_from:
     loading="lazy">
 
   <figcaption style="font-size:0.85em; margin-top:8px;">
-  View of the centre of Milky Way from the Sutherland Observatory in South Africa; Venus and Jupiter are setting in the horizon. Pictures was taken during an observing campaign in September, 2021.
+  View of the centre of Milky Way from the Sutherland Observatory in South Africa; Venus and Jupiter are setting in the horizon. Picture was taken during an observing campaign in September, 2021.
   </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Before joining IUCAA in 2026, I held postdoctoral positions at the University of
 
 ## My Research
 
-Astronomy, at its core, is an experimental science; almost always, new discoveries have been preceded advances in measurement and observational techniques and instruments. My research is driven by the realisation that in order to make advances in astrophysics, the key is the development of advanced telescopes and instruments to facilitate newer or better ways to probe the Universe. Motivated by this, I have been aiming to develop new instruments and observational techniques that enable measurements previously difficult or impossible to achieve.
+Astronomy, at its core, is an experimental science; almost always, new discoveries have been preceded by advances in observational techniques and instruments. My research is driven by the realisation that in order to make advances in astrophysics, the key is the development of advanced telescopes and instruments to facilitate newer and/or better ways to probe the Universe. Motivated by this, I have been aiming to develop new instruments and observational techniques that enable measurements previously difficult or impossible to achieve.
 
 My approach is to develop new techniques and instruments, test them on the sky, and use them to address exciting scientific questions. This involves working across the full instrument development cycle, from scientific motivation and instrument design to laboratory characterisation, commissioning, observations, and scientific analysis.
 
