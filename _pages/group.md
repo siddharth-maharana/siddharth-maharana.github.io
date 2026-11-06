@@ -51,7 +51,6 @@ Alternatively, if you are a student interested in working on your undegraduate/m
 
 > A note to students: I urge students contacting me for projects write the email in their own words.
 > Of late, I (like everyone else) am frequently receiving request for undergrad and master's project supervision written in a very AI like style. These emails almost always have the same style and content, and beyond being very off-putting, such an email is a singular reason for lack of response from my side. 
----
 
 ## Current Members
 
