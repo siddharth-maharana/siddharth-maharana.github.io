@@ -4,7 +4,7 @@ permalink: /group/
 layout: archive
 author_profile: true
 ---
-
+<!-- 
 > *"The road to wisdom?*
 >
 > *Well, it's plain*
@@ -25,13 +25,14 @@ Students in the group have the opportunity to participate in every stage of an i
 >
 > In keeping with IUCAA's mandate of fostering astronomy and astrophysics research across Indian universities, students from universities across India are especially encouraged to get in touch regarding research projects, internships, and potential PhD opportunities. Students from Physics, Astronomy, Engineering, and related disciplines are all welcome.
 >
-> **Open positions:** Recruitment announcements will be posted here as positions become available. Prospective students are nevertheless encouraged to contact me to discuss potential opportunities.
 
+> **Open positions:** Recruitment announcements will be posted here as positions become available. Prospective students are nevertheless encouraged to contact me to discuss potential opportunities.
+-->
 ## Opportunities
 
 ### PhD Students
 
-Prospective PhD students are welcome to discuss research projects in areas including:
+Over the next few years, I am looking for prospective PhD students to work on research projects in areas including:
 
 - Astronomical instrumentation
   - Polarimetric methods
@@ -47,17 +48,22 @@ Prospective PhD students are welcome to discuss research projects in areas inclu
 
 Research projects are available for Master's dissertations, undergraduate research projects, internships, and summer students. If you are interested in joining the group, please send me an email with a brief description of your interests and a copy of your CV.
 
+> **A note to students**: Of late, I am recieving a lot of requests for undergrad and master's project writeen in a very AI like style, and they often almost always have the same style and content. Such an email is a singular reason for lack of response. I urge students contacting any astronomers for project to write an email in their own words. 
 ---
 
 ## Current Members
 
-The group is currently being established at IUCAA.
+### Master's Students
 
-Members will be listed here as they join.
+- Samruddhi Bhate — DIAT, Pune (2026– )
+
+### Undergraduate Research Students
+
+- Aman Mahnoori — IISER, Kolkata (2026- )
 
 ---
 
-## Alumni
+## Previous Students Supervised
 
 ### Master's Students
 
