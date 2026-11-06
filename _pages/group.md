@@ -45,10 +45,12 @@ Over the next few years, I am looking for prospective PhD students to work on re
 - Instrumentation and technology development for future Extremely Large Telescopes
 
 ### Master's and Undergraduate Students
+One way to do a short 2-3 month summer project with me or other IUCAA academic members is via the [Vacations Student Program](https://www.iucaa.in/en/education/summer-winter-programmes/vacation-students-programme) held every year.
 
-Research projects are available for Master's dissertations, undergraduate research projects, internships, and summer students. If you are interested in joining the group, please send me an email with a brief description of your interests and a copy of your CV.
+Alternatively, if you are a student interested in working on your undegraduate/master's thesis project with me, please send me an email with a brief description of your interests and a copy of your CV. 
 
-> **A note to students**: Of late, I am recieving a lot of requests for undergrad and master's project writeen in a very AI like style, and they often almost always have the same style and content. Such an email is a singular reason for lack of response. I urge students contacting any astronomers for project to write an email in their own words. 
+> A note to students: I urge students contacting me for projects write the email in their own words.
+> Of late, I (like everyone else) am frequently receiving undergrad and master's project written in a very AI like style. These emails almost always have the same style and content, and beyond being very off-putting, such an email is a singular reason for lack of response from my side. 
 ---
 
 ## Current Members
