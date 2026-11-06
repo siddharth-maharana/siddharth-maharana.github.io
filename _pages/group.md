@@ -50,7 +50,7 @@ One way to do a short 2-3 month summer project with me or other IUCAA academic m
 Alternatively, if you are a student interested in working on your undegraduate/master's thesis project with me, please send me an email with a brief description of your interests and a copy of your CV. 
 
 > A note to students: I urge students contacting me for projects write the email in their own words.
-> Of late, I (like everyone else) am frequently receiving undergrad and master's project written in a very AI like style. These emails almost always have the same style and content, and beyond being very off-putting, such an email is a singular reason for lack of response from my side. 
+> Of late, I (like everyone else) am frequently receiving request for undergrad and master's project supervision written in a very AI like style. These emails almost always have the same style and content, and beyond being very off-putting, such an email is a singular reason for lack of response from my side. 
 ---
 
 ## Current Members
