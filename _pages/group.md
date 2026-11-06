@@ -68,7 +68,7 @@ Alternatively, if you are a student interested in working on your undegraduate/m
 
 ### Master's Students
 
-- **Chris Dennison-Farrar** — University of Cape Town (2024–2026)
+- Chris Dennison-Farrar — Thesis Project, University of Cape Town (2024–2026)
 
 ### Undergraduate Research Students
 
